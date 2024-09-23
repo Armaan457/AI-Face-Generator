@@ -1,4 +1,4 @@
-# AI_Face_Generator
+# AI Face Generator
 A simple face generator app that utilises the Stable Diffusion model to generate images of faces based on the user's inputs. The app also allows the user to adjust the image quality and inference steps to balance between time and quality as per user's need. It also supports GPU acceleration (if available). It is deployed using Streamlit.
 
 # Setup
@@ -6,7 +6,7 @@ A simple face generator app that utilises the Stable Diffusion model to generate
 Clone the repository:
 
 ```sh
-> git clone https://github.com/Armaan457/AI_Face_Generator.git
+> git clone https://github.com/Armaan457/AI-Face-Generator.git
 ```
 Create and activate a virtual environment:
 
